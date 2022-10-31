@@ -9,7 +9,8 @@
 	align-items: center;
 	justify-content: right;
 	margin:30px;
-
+	font-weight: 400;
+	font-size: 14px
 }
 button {
 	background-color: #FF5A5F;
@@ -28,3 +29,6 @@ button {
 .filters button:hover {
 	opacity: 90%;
  }
+.locations{
+	
+}
