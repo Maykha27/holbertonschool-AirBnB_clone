@@ -87,6 +87,5 @@ div:hover > .popover {
 display: block;
 }
 
-.amenities:hover > .popover {
-	display: block;
+.amenities:hover > .popover {display: block;
 }
